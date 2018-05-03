@@ -1,0 +1,48 @@
+grupo_A_1;F;Brasil  ;;Croacia
+grupo_A_2;F;Brasil  ;;Mexico
+grupo_A_3;F;Brasil  ;;Camerun
+grupo_A_4;F;Croacia ;;Mexico
+grupo_A_5;F;Croacia ;;Camerun
+grupo_A_6;F;Mexico  ;;Camerun
+grupo_B_1;F;Espana  ;;Holanda
+grupo_B_2;F;Espana  ;;Chile
+grupo_B_3;F;Espana  ;;Australia
+grupo_B_4;F;Holanda ;;Chile
+grupo_B_5;F;Holanda ;;Australia
+grupo_B_6;F;Chile   ;;Australia
+grupo_C_1;F;Colombia;;Grecia
+grupo_C_2;F;Colombia;;C._de_Marfil
+grupo_C_3;F;Japon.  ;;Colombia
+grupo_C_4;F;Grecia  ;;C._de_Marfil
+grupo_C_5;F;Japon.  ;;Grecia
+grupo_C_6;F;Japon.  ;;C._de_Marfil
+grupo_D_1;F;Uruguay ;;Costa_Rica
+grupo_D_2;F;Uruguay ;;Inglaterra
+grupo_D_3;F;Uruguay ;;Italia
+grupo_D_4;F;Costa_Rica;;Inglaterra
+grupo_D_5;F;Costa_Rica;;Italia
+grupo_D_6;F;Inglaterra;;Italia
+grupo_E_1;F;Suiza   ;;Ecuador
+grupo_E_2;F;Suiza   ;;Francia
+grupo_E_3;F;Suiza   ;;Honduras
+grupo_E_4;F;Ecuador ;;Francia
+grupo_E_5;F;Ecuador ;;Honduras
+grupo_E_6;F;Francia ;;Honduras
+grupo_F_1;F;Argentina;;Bosnia
+grupo_F_2;F;Argentina;;Iran.   
+grupo_F_3;F;Argentina;;Nigeria
+grupo_F_4;F;Bosnia  ;;Iran.   
+grupo_F_5;F;Bosnia  ;;Nigeria
+grupo_F_6;F;Iran.    ;;Nigeria
+grupo_G_1;F;Alemania;;Portugal
+grupo_G_2;F;Alemania;;Ghana
+grupo_G_3;F;Alemania;;Estados_Unidos
+grupo_G_4;F;Portugal;;Ghana
+grupo_G_5;F;Portugal;;Estados_Unidos
+grupo_G_6;F;Ghana   ;;Estados_Unidos
+grupo_H_1;F;Belgica ;;Arjelia
+grupo_H_2;F;Belgica ;;Rusia
+grupo_H_3;F;Belgica ;;Corea_del_Sur
+grupo_H_4;F;Arjelia ;;Rusia
+grupo_H_5;F;Arjelia ;;Corea_del_Sur
+grupo_H_6;F;Rusia   ;;Corea del Sur
